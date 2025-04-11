@@ -1,5 +1,7 @@
 # Milipixel-App
 
+_Note: this repository is not what you want if you want an example of Mbed-TLS on the classic Mac. [MacSSL](https://github.com/bbenchoff/MacSSL) is the repository that contains the example/demo code for Mbed-TLS on Mac System 7/8/9_
+
 This is a C89/90 pport of MbedTLS for Mac System 7/8/9. It works, it compiles under Metrowerks Codewarrior 4. Here's proof:
 
 ![The app running](https://bbenchoff.github.io/images/MacSSL1.png)
