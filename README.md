@@ -2,7 +2,16 @@
 
 _Note: this repository is not what you want if you want an example of Mbed-TLS on the classic Mac. [MacSSL](https://github.com/bbenchoff/MacSSL) is the repository that contains the example/demo code for Mbed-TLS on Mac System 7/8/9_
 
-This is a C89/90 pport of MbedTLS for Mac System 7/8/9. It works, it compiles under Metrowerks Codewarrior 4. Here's proof:
+This is a client for [Millipixel](https://640by480.com/), an online photo sharing website for vintage digital cameras. It runs on classic Mac hardware:
+
+### Minimum Requirements
+* Macintosh computer with 68020 or greater CPU
+* System 7 operating system
+* Open Transport 1.1.2 
+* 4 Megabytes of free memory
+* Network connection to the World Wide Web
+
+![Box art](/Art/BoxArt.png)
 
 ![The app running](https://bbenchoff.github.io/images/MacSSL1.png)
  
@@ -40,4 +49,3 @@ Basically I'm looking for another set of eyes on this. Perferably someone who ha
 
 This github repo is EXACTLY like the folder on my build machine, a Power Mac G3 233MHz, running OS 8.6. Codewarrior Pro 4, obviously. There's also a .sit file that is this folder, because of resource forks and such.
 
-![Box art](/Art/BoxArt.png)
